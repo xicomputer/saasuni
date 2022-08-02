@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "积分任务",
+  "usingComponents": {
+    "task-pop": "/pages/Index/integral/components/integralTask/integralTask"
+  }
+}

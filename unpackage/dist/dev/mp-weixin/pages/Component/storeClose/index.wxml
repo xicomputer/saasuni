@@ -1,0 +1,1 @@
+<view class="store-close-container"><image style="width:500rpx;height:662rpx;" src="https://xssj.letterbook.cn/applet/images/store_close_img.png"></image><image style="width:40rpx;height:40rpx;margin-top:100rpx;" src="/static/pages/img/goods/close.png" data-event-opts="{{[['tap',[['toIndex',['$event']]]]]}}" bindtap="__e"></image></view>

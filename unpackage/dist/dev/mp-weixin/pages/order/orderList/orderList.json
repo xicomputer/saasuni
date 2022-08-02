@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "backgroundTextStyle": "dark",
+  "usingComponents": {
+    "to-bottom": "/pages/Component/toBottom/index"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "video-button-bar": "/pages/videoPlay/components/video-button-bar"
+  }
+}

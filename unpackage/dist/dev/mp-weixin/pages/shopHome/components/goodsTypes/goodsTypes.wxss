@@ -1,0 +1,217 @@
+/* flex布局 */
+
+/* flex盒子默认排列 */
+.me-fx-row {
+    display: flex;
+}
+.me-fx-col {
+    display: flex;
+    flex-direction: column;
+}
+.me-fx-start-c {
+    align-items: center;
+}
+.me-fx-start-end {
+    align-items: flex-end;
+}
+
+/* 两端对齐 */
+.me-fx-sb {
+    justify-content: space-between;
+}
+.me-fx-sb-c {
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20rpx;
+}
+.me-fx-sb-end {
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+/* 两端对齐，两侧有边距 */
+.me-fx-sa {
+    justify-content: space-around;
+}
+.me-fx-sa-c {
+    justify-content: space-around;
+    align-items: center;
+}
+.me-fx-sa-end {
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+/* 居中对齐 */
+.me-fx-c {
+    justify-content: center;
+}
+.me-fx-c-c {
+    justify-content: center;
+    align-items: center;
+}
+.me-fx-c-end {
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/* 尾部对其 */
+.me-fx-end {
+    justify-content: flex-end;
+}
+.me-fx-end-c {
+    justify-content: flex-end;
+    align-items: center;
+}
+.me-fx-end-end {
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.me-fx-1 {
+    flex: 1;
+}
+
+/* 浮动布局 */
+
+/* 浮动元素父容器 */
+.me-ft-p::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+/* 左浮动 */
+.me-lt-ft {
+    float: left;
+}
+
+/* 又浮动 */
+.me-rt-ft {
+    float: right;
+}
+
+/* 多余文本省略号截取样式 */
+.me-full-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.me-full-line2 {
+    -webkit-line-clamp: 2;
+}
+
+/* 定位 */
+.me-pos-rel {
+    position: relative;
+}
+.me-pos-abs {
+    position: absolute;
+}
+.me-pos-fixed {
+    position: fixed;
+}
+image {
+    vertical-align: middle;
+}
+.goods-types-list {
+    flex-wrap: wrap;
+}
+
+/* ----------- 滑动的类 ------------ */
+.scroll-content {
+    padding: 20rpx 32rpx;
+    box-sizing: border-box;
+}
+.type-item0 {
+    width: 218rpx;
+    height: 310rpx;
+    margin-right: 16rpx;
+    flex-shrink: 0;
+    position: relative;
+}
+.type-item0 .type-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20rpx;
+    background-color: #ccc;
+}
+.type-item0 .type-name-box {
+    position: absolute;
+    left: 0;
+    bottom: 16rpx;
+    width: 100%;
+    text-align: center;
+}
+.type-item0 .type-name-box .type-name {
+    background-color: #fff;
+    font-size: 28rpx;
+    border-radius: 10rpx;
+    margin: 0 30rpx;
+}
+
+/* ------------- 平铺的类 --------------- */
+.type-item1 {
+    font-size: 28rpx;
+    color: #333;
+    width: 20%;
+    padding: 20rpx 0;
+    box-sizing: border-box;
+}
+.type-item1 .type-img {
+    width: 100rpx;
+    height: 100rpx;
+    margin-bottom: 8rpx;
+    background-color: #ccc;
+    border-radius: 50%;
+}
+.type-item1 .fill-elem {
+    width: 100rpx;
+    height: 100rpx;
+    color: #fff;
+    margin-bottom: 8rpx;
+    border-radius: 50%;
+}
+.fill-elem .fill-elem-text {
+    width: 60rpx;
+    text-align: center;
+    line-height: 35rpx;
+}
+.fill-elem1 {
+    background-color: #fe4f4f;
+}
+.fill-elem2 {
+    background-color: #999;
+}
+.fill-elem3 {
+    background-color: #3f8dff;
+}
+.fill-elem4 {
+    background-color: #fe7e8e;
+}
+.fill-elem5 {
+    background-color: #ff8b4e;
+}
+.fill-elem6 {
+    background-color: #2ca4f0;
+}
+.fill-elem7 {
+    background-color: #9ec06c;
+}
+.swiper1 {
+    height: 193rpx;
+}
+.swiper2 {
+    height: 386rpx;
+}
+.type-item2 {
+    width: 25%;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+.type-item3 {
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+

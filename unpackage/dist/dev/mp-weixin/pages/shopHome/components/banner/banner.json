@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "notice": "/pages/shopHome/components/notice/notice"
+  }
+}

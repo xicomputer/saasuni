@@ -1,0 +1,1 @@
+<view class="me-fx-col me-fx-c-c pay-fail-page"><image class="pay-fail-bg-img" src="/static/pages/group_booking/imgs/pay-fail-bg.png"></image><text>支付失败</text><button data-event-opts="{{[['tap',[['btnHandle',['$event']]]]]}}" class="back-hone" bindtap="__e">返回首页</button></view>

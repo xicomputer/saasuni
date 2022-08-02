@@ -1,0 +1,1 @@
+<view class="add-wechat-container"><view data-event-opts="{{[['tap',[['addWXchat',['$event']]]]]}}" class="{{['me-fx-row me-fx-sb-c content-text '+contentText]}}" bindtap="__e"><text class="me-fx-1 me-full-text">添加商家微信群，了解最新店铺优惠和商家福利！</text><view class="btn-el">立即添加 ></view></view></view>

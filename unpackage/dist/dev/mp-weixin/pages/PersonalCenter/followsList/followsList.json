@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "关注列表",
+  "usingComponents": {
+    "no-data": "/pages/Component/noData/index"
+  }
+}

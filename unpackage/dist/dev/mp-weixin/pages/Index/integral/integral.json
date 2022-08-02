@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "积分乐园",
+  "usingComponents": {
+    "task-pop": "/pages/Index/integral/components/integralTask/integralTask",
+    "store-close": "/pages/Component/storeClose/index"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商品评价",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "no-data": "/pages/Component/noData/index"
+  }
+}

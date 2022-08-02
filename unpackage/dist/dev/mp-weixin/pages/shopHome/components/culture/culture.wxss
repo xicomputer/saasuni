@@ -1,0 +1,239 @@
+/* flex布局 */
+
+/* flex盒子默认排列 */
+.me-fx-row {
+    display: flex;
+}
+.me-fx-col {
+    display: flex;
+    flex-direction: column;
+}
+.me-fx-start-c {
+    align-items: center;
+}
+.me-fx-start-end {
+    align-items: flex-end;
+}
+
+/* 两端对齐 */
+.me-fx-sb {
+    justify-content: space-between;
+}
+.me-fx-sb-c {
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20rpx;
+}
+.me-fx-sb-end {
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+/* 两端对齐，两侧有边距 */
+.me-fx-sa {
+    justify-content: space-around;
+}
+.me-fx-sa-c {
+    justify-content: space-around;
+    align-items: center;
+}
+.me-fx-sa-end {
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+/* 居中对齐 */
+.me-fx-c {
+    justify-content: center;
+}
+.me-fx-c-c {
+    justify-content: center;
+    align-items: center;
+}
+.me-fx-c-end {
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/* 尾部对其 */
+.me-fx-end {
+    justify-content: flex-end;
+}
+.me-fx-end-c {
+    justify-content: flex-end;
+    align-items: center;
+}
+.me-fx-end-end {
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.me-fx-1 {
+    flex: 1;
+}
+
+/* 浮动布局 */
+
+/* 浮动元素父容器 */
+.me-ft-p::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+/* 左浮动 */
+.me-lt-ft {
+    float: left;
+}
+
+/* 又浮动 */
+.me-rt-ft {
+    float: right;
+}
+
+/* 多余文本省略号截取样式 */
+.me-full-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.me-full-line2 {
+    -webkit-line-clamp: 2;
+}
+
+/* 定位 */
+.me-pos-rel {
+    position: relative;
+}
+.me-pos-abs {
+    position: absolute;
+}
+.me-pos-fixed {
+    position: fixed;
+}
+image {
+    vertical-align: middle;
+}
+@font-face {
+    font-family: 'icon'; /* Project id 2560892 */
+    src: url('//at.alicdn.com/t/font_2560892_vc7aum2f7wm.woff2?t=1621588840593') format('woff2'),
+        url('//at.alicdn.com/t/font_2560892_vc7aum2f7wm.woff?t=1621588840593') format('woff'),
+        url('//at.alicdn.com/t/font_2560892_vc7aum2f7wm.ttf?t=1621588840593') format('truetype');
+}
+.icon {
+    font-family: 'icon' !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-full-right:before {
+    content: '\e639';
+}
+.icon-cart:before {
+    content: '\e637';
+}
+.icon-right:before {
+    content: '\e636';
+}
+.icon-notice:before {
+    content: '\e635';
+}
+
+/* pages/shopHome/components/culture/culture.wxss */
+
+/* 文化 */
+.culture-box {
+    margin-top: 20rpx;
+}
+.culture-box .title-box {
+    margin: 0rpx 32rpx 20rpx;
+    position: relative;
+    height: 30rpx;
+}
+.culture-box .adorn-img {
+    width: 41rpx;
+    height: 29rpx;
+}
+.culture-box .title-text {
+    font-size: 40rpx;
+    color: #fff;
+    font-weight: bold;
+    margin: 0 20rpx;
+}
+.culture-box .culture-img-list {
+    flex-wrap: wrap;
+    margin: 0 32rpx 20rpx;
+    box-sizing: border-box;
+}
+.culture-box .culture-img {
+    width: 332rpx;
+    height: 200rpx;
+    border-radius: 16rpx;
+}
+.ArticleList {
+    position: relative;
+    margin-bottom: 10rpx;
+    width: 332rpx;
+}
+.ArtiBox {
+    color: #fff;
+    width: 100%;
+    border-bottom-left-radius: 16rpx;
+    border-bottom-right-radius: 16rpx;
+    text-align: center;
+    font-size: 22rpx;
+    margin-top: 8rpx;
+}
+.ArtiBox > text {
+    -webkit-line-clamp: 2;
+    width: 100%;
+}
+.other_list {
+    flex-wrap: nowrap !important;
+    overflow-x: scroll;
+}
+.other_list > view {
+    margin-right: 20rpx;
+}
+.culture-box .textColor3 {
+    color: #000;
+}
+.more {
+    color: #333;
+    font-size: 24rpx;
+    position: absolute;
+    right: 0rpx;
+}
+.icon-right {
+    font-size: 24rpx;
+}
+
+/* 模板2 */
+.culture-list2 {
+    margin: 0rpx 32rpx;
+    color: #fff;
+    margin-bottom: 30rpx;
+}
+.culture2-img {
+    width: 216rpx;
+    height: 120rpx;
+    flex-shrink: 0;
+    border-radius: 8rpx;
+}
+.culture2_title {
+    font-size: 28rpx;
+    line-height: 30rpx;
+    padding-right: 20rpx;
+}
+.culture2_time {
+    font-size: 24rpx;
+    color: #acacac;
+}
+.line {
+    border-top: 1px solid #ffffff;
+    margin: 30rpx;
+    opacity: 0.1;
+}
+

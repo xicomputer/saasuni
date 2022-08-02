@@ -1,0 +1,1 @@
+<view style="width:90rpx;height:90rpx;position:absolute;z-index:9999;margin-left:-45rpx;" data-url="/pages/shopHome/member/member" data-event-opts="{{[['tap',[['aciveUrl',['$event']]]]]}}" bindtap="__e"></view>

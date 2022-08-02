@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "拼团详情",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "auth-get-info": "/pages/Component/auth-get-info/auth-get-info"
+  }
+}

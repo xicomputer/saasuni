@@ -1,0 +1,1 @@
+<block wx:if="{{mainBanner.fileurl}}"><view class="static-Img" data-id="{{mainBanner.commodityId}}" data-event-opts="{{[['tap',[['goShopDeatial',['$event']]]]]}}" bindtap="__e"><image src="{{mainBanner.fileurl}}"></image></view></block>

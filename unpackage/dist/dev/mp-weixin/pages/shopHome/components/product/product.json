@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "add-subtract-num": "/pages/Component/add-subtract-num/add-subtract-num"
+  }
+}

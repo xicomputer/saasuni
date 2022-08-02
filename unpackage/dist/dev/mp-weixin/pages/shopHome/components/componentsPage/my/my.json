@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "sign-in-home": "/pages/shopHome/components/signInHome/signInHome"
+  }
+}

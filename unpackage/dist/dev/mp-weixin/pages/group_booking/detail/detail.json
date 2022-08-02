@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "add-subtract-num": "/pages/Component/add-subtract-num/add-subtract-num",
+    "canvas-synthetic": "/pages/group_booking/components/canvas_synthetic/canvas_synthetic",
+    "auth-get-info": "/pages/Component/auth-get-info/auth-get-info"
+  }
+}

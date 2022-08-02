@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "scroll-video": "/pages/videoPlay/components/scroll-video"
+  }
+}

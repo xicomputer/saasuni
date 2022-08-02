@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "购物车",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark",
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "no-data": "/pages/Component/noData/index",
+    "store-close": "/pages/Component/storeClose/index"
+  }
+}

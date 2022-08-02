@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "view-more-title": "/pages/shopHome/components/view-more-title/view-more-title"
+  }
+}

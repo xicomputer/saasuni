@@ -1,0 +1,253 @@
+/* flex布局 */
+
+/* flex盒子默认排列 */
+.me-fx-row {
+    display: flex;
+}
+.me-fx-col {
+    display: flex;
+    flex-direction: column;
+}
+.me-fx-start-c {
+    align-items: center;
+}
+.me-fx-start-end {
+    align-items: flex-end;
+}
+
+/* 两端对齐 */
+.me-fx-sb {
+    justify-content: space-between;
+}
+.me-fx-sb-c {
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20rpx;
+}
+.me-fx-sb-end {
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+/* 两端对齐，两侧有边距 */
+.me-fx-sa {
+    justify-content: space-around;
+}
+.me-fx-sa-c {
+    justify-content: space-around;
+    align-items: center;
+}
+.me-fx-sa-end {
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+/* 居中对齐 */
+.me-fx-c {
+    justify-content: center;
+}
+.me-fx-c-c {
+    justify-content: center;
+    align-items: center;
+}
+.me-fx-c-end {
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/* 尾部对其 */
+.me-fx-end {
+    justify-content: flex-end;
+}
+.me-fx-end-c {
+    justify-content: flex-end;
+    align-items: center;
+}
+.me-fx-end-end {
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.me-fx-1 {
+    flex: 1;
+}
+
+/* 浮动布局 */
+
+/* 浮动元素父容器 */
+.me-ft-p::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+/* 左浮动 */
+.me-lt-ft {
+    float: left;
+}
+
+/* 又浮动 */
+.me-rt-ft {
+    float: right;
+}
+
+/* 多余文本省略号截取样式 */
+.me-full-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.me-full-line2 {
+    -webkit-line-clamp: 2;
+}
+
+/* 定位 */
+.me-pos-rel {
+    position: relative;
+}
+.me-pos-abs {
+    position: absolute;
+}
+.me-pos-fixed {
+    position: fixed;
+}
+image {
+    vertical-align: middle;
+}
+
+/* pages/shopHome/components/union/union.wxss */
+.union-shop {
+    margin-top: 40rpx;
+}
+.union-shop .title-box {
+    margin-bottom: 20rpx;
+}
+.union-shop .adorn-img {
+    width: 41rpx;
+    height: 29rpx;
+}
+.union-shop .title-text {
+    font-size: 30rpx;
+    color: #333;
+    font-weight: bold;
+    margin: 0 20rpx;
+}
+.union-info {
+    height: 158rpx;
+    border-radius: 12rpx;
+    background-color: #f9f1e4;
+    margin: 0px 20px 20rpx;
+}
+.Info_msg {
+    padding: 20rpx 0rpx 20rpx 48rpx;
+    width: 400rpx;
+    flex-shrink: 0;
+}
+.Info_msg_img {
+    width: 116rpx;
+    height: 116rpx;
+    border-radius: 16rpx;
+    flex-shrink: 0;
+}
+.shop_msg_info {
+    padding-left: 24rpx;
+    height: 116rpx;
+}
+.shop_msg {
+    color: #d1a463;
+    font-size: 20rpx;
+}
+.new_msg {
+    color: #000000;
+    font-size: 34rpx;
+    font-weight: bold;
+}
+.new_desc {
+    font-size: 20rpx;
+    color: #9c948b;
+    -webkit-line-clamp: 2;
+}
+.activitys_Info_btn {
+    color: #fff;
+    background-color: #ffd098;
+    font-size: 20rpx;
+    padding: 14rpx 30rpx;
+    margin-right: 15rpx;
+    border-radius: 6rpx;
+}
+
+/* 模板颜色 */
+.text_color1 {
+    color: #fe4f4f;
+}
+.btn_bg1 {
+    background-color: #fe4f4f;
+}
+.text_color2 {
+    color: #111833;
+}
+.btn_bg2 {
+    background-color: #111833;
+}
+.text_color3 {
+    color: #333333;
+}
+.btn_bg3 {
+    background-color: #333333;
+}
+.text_color4 {
+    color: #9ec06c;
+}
+.btn_bg4 {
+    background-color: #9ec06c;
+}
+.union-shop .textColor3 {
+    color: #000;
+}
+.item-box {
+    width: 690rpx;
+    background-color: #fff;
+    border-radius: 18rpx;
+    margin: 20rpx auto;
+    padding: 16rpx;
+    box-sizing: border-box;
+}
+.item-box .item-top {
+    margin-bottom: 34rpx;
+}
+.item-box .avatar-img {
+    width: 50rpx;
+    height: 50rpx;
+    background-color: #ccc;
+    border-radius: 50%;
+}
+.item-box .title-text {
+    font-size: 34rpx;
+    color: #000;
+    font-weight: bold;
+}
+.item-box .enter-btn {
+    width: 134rpx;
+    height: 46rpx;
+    border-radius: 28rpx;
+    font-size: 24rpx;
+    background: linear-gradient(92deg, #ec0702 0%, #f83603 100%);
+    color: #fff;
+    text-align: center;
+    line-height: 46rpx;
+}
+.item-box .product-img {
+    width: 200rpx;
+    height: 200rpx;
+    margin-bottom: 15rpx;
+}
+.item-box .price-box {
+    font-size: 22rpx;
+    color: #ff1c1c;
+    font-weight: bold;
+}
+.item-box .price-num {
+    font-size: 36rpx;
+}
+

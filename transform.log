@@ -1,0 +1,1752 @@
+miniprogram-to-uniapp v2 转换日志
+
+工具版本：v2.0.21
+转换模式：HBuilder X
+是否合并css：是
+项目 'xssj_New_basic' 开始转换...
+sourceFolder = D:/products/xssj_New_basic
+搜索到2389个文件，耗时：51ms
+
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+
+[Tip]这个页面的结构非标准结构，尝试修复一下，如有问题，请先调整后，再转换。 file:miniprogram_npm/@vant/weapp/common/component
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+
+[Tip]这里引用的全是网络字体，可能在app上面有兼容问题（如字体图标显示不出来，运行后没问题就不用管）  fileKey: miniprogram_npm/@vant/weapp/icon/index
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+
+[Tip]这个页面的结构非标准结构，尝试修复一下，如有问题，请先调整后，再转换。 file:miniprogram_npm/vant-weapp/common/component
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+
+[Tip]这里引用的全是网络字体，可能在app上面有兼容问题（如字体图标显示不出来，运行后没问题就不用管）  fileKey: miniprogram_npm/vant-weapp/icon/index
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+page.transform():  ReferenceError: filePath is not defined
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:746:39
+    at AST.each (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\gogocode\src\Ast.js:73:13)
+    at Page.getWxsScriptList (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:739:14)
+    at Page.transform (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\page\index.js:257:35)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\project\projectHandle.js:308:17
+[Error] requirePlugin方法仅在微信小程序里支持，请转换后手动调整代码       file: pages/activity/pmhd/details/details
+
+[Tip]这里引用的全是网络字体，可能在app上面有兼容问题（如字体图标显示不出来，运行后没问题就不用管）  fileKey: pages/Component/add-subtract-num/add-subtract-num
+[Error] plugin-private://插件仅在微信小程序里支持，请转换后手动调整代码       file: pages/hotLiveList/hotLiveList
+[Error] plugin-private://插件仅在微信小程序里支持，请转换后手动调整代码       file: pages/shopHome/components/hotLive/hotLive
+
+[Tip]这里引用的全是网络字体，可能在app上面有兼容问题（如字体图标显示不出来，运行后没问题就不用管）  fileKey: pages/shopHome/components/view-more-title/view-more-title
+
+[Tip]这里引用的全是网络字体，可能在app上面有兼容问题（如字体图标显示不出来，运行后没问题就不用管）  fileKey: pages/shopHome/iconfont/iconfont
+
+[Tip]这里引用的全是网络字体，可能在app上面有兼容问题（如字体图标显示不出来，运行后没问题就不用管）  fileKey: pages/special_goods/activity-classify/activity-classify
+
+[Tip]这里引用的全是网络字体，可能在app上面有兼容问题（如字体图标显示不出来，运行后没问题就不用管）  fileKey: styles/font
+
+[Tip]这里引用的全是网络字体，可能在app上面有兼容问题（如字体图标显示不出来，运行后没问题就不用管）  fileKey: styles/font
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/picker/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/smallShop/Withdraw/@vant/weapp/toast/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/Invoice/InvoiceList/@vant/weapp/cell/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/picker/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-button/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-button/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/Invoice/InvoiceList/@vant/weapp/cell/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/Invoice/InvoiceList/@vant/weapp/cell/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/Invoice/InvoiceList/@vant/weapp/cell/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/overlay/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/field/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/sticky/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/overlay/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/sidebar/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/sidebar-item/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/picker/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/Invoice/InvoiceList/@vant/weapp/cell/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/picker/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/Invoice/InvoiceList/@vant/weapp/cell/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+格式化Error: fileKey: miniprogram_npm/vant-weapp/loading/index     type:vue       error： SyntaxError: Unexpected closing tag "view". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (9:1)
+   7 |  class="van-loading__dot" v-for="(item,index) in (" item in 12")" :key="index"></view>
+   8 |   </view>
+>  9 | </view>
+     | ^^^^^^^
+  10 |
+  11 | </template>
+  12 |
+    at t (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\utils\prettier\parser-html.js:4:2359)
+    at MD (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\utils\prettier\parser-html.js:36:6425)
+    at gs (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\utils\prettier\parser-html.js:36:7938)
+    at Object.parse (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\utils\prettier\parser-html.js:36:8710)
+    at Object.m [as parse] (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\utils\prettier\standalone.js:40:1355)
+    at b (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\utils\prettier\standalone.js:41:15054)
+    at D (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\utils\prettier\standalone.js:45:576)
+    at D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\utils\prettier\standalone.js:115:7299
+    at Object.format (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\utils\prettier\standalone.js:115:7390)
+    at formateByPrettier (D:\hbuild\HBuilderX\plugins\miniprogram-to-uniapp\node_modules\miniprogram-to-uniapp\src\utils\formatUtils.js:187:24) {
+  loc: { start: { line: 9, column: 1 }, end: { line: 9, column: 8 } },
+  codeFrame: '   7 |  class="van-loading__dot" v-for="(item,index) in (" item in 12")" :key="index"></view>\n' +
+    '   8 |   </view>\n' +
+    '>  9 | </view>\n' +
+    '     | ^^^^^^^\n' +
+    '  10 |\n' +
+    '  11 | </template>\n' +
+    '  12 |'
+}
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/Invoice/InvoiceList/@vant/weapp/cell/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/overlay/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/field/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/Invoice/InvoiceList/@vant/weapp/cell/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/overlay/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/shopHome/components/componentsPage/my/weui-miniprogram/badge/badge
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/sticky/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/stepper/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-icon/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-icon/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-button/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-button/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/overlay/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+还真有数组啊。。。 height
+找不到这个组件: pages/PersonalCenter/followsList/@vant/weapp/swipe-cell/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/ImproveInformation/@vant/weapp/area/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tabs/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tab/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/seckill/confirm-order/@vant/weapp/datetime-picker/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tabs/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tab/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tabs/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tab/index
+还真有数组啊。。。 height
+找不到这个组件: pages/smallShop/Withdraw/@vant/weapp/toast/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+还真有数组啊。。。 defCount
+找不到这个组件: pages/seckill/confirm-order/@vant/weapp/datetime-picker/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+还真有数组啊。。。 defCount
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/field/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/field/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/field/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/field/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/field/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/field/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/field/index
+找不到这个组件: pages/order/postGoodsComment/@vant/weapp/uploader/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/ImproveInformation/@vant/weapp/area/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/sidebar/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/sidebar-item/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/dialog/index
+还真有数组啊。。。 height
+还真有数组啊。。。 height
+还真有数组啊。。。 height
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-icon/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-icon/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-icon/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-icon/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-icon/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-button/index
+找不到这个组件: pages/Index/GoodsDetails/@vant/weapp/goods-action-button/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/Index/@vant/weapp/notice-bar/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/overlay/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+还真有数组啊。。。 height
+还真有数组啊。。。 orderSwitch
+找不到这个组件: pages/Index/@vant/weapp/notice-bar/index
+还真有数组啊。。。 CouponsNum
+还真有数组啊。。。 jifenNum
+还真有数组啊。。。 orderSwitch
+还真有数组啊。。。 height
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/dialog/index
+找不到这个组件: pages/smallShop/Withdraw/@vant/weapp/toast/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/dialog/index
+还真有数组啊。。。 height
+还真有数组啊。。。 orderSwitch
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/seckill/confirm-order/@vant/weapp/datetime-picker/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/overlay/index
+还真有数组啊。。。 height
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/overlay/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/seckill/confirm-order/@vant/weapp/datetime-picker/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/seckill/confirm-order/@vant/weapp/datetime-picker/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/smallShop/subordinate/@vant/weapp/search/index
+找不到这个组件: pages/smallShop/subordinate/@vant/weapp/search/index
+还真有数组啊。。。 height
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/smallShop/Withdraw/@vant/weapp/toast/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/dialog/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/dialog/index
+还真有数组啊。。。 height
+找不到这个组件: pages/Invoice/InvoiceList/@vant/weapp/radio-group/index
+找不到这个组件: pages/PersonalCenter/followsList/@vant/weapp/swipe-cell/index
+找不到这个组件: pages/Invoice/InvoiceList/@vant/weapp/radio/index
+还真有数组啊。。。 height
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/field/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+还真有数组啊。。。 height
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/overlay/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tabs/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tab/index
+找不到这个组件: pages/order/orderListTake/@vant/weapp/image/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/overlay/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tabs/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tab/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/order/orderListTake/@vant/weapp/image/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tabs/index
+找不到这个组件: pages/order/submitOrder/@vant/weapp/tab/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/order/orderListTake/@vant/weapp/image/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/sticky/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+还真有数组啊。。。 height
+找不到这个组件: pages/PersonalCenter/followsList/@vant/weapp/swipe-cell/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+还真有数组啊。。。 height
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+还真有数组啊。。。 defCount
+找不到这个组件: pages/seckill/confirm-order/@vant/weapp/datetime-picker/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+还真有数组啊。。。 defCount
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+还真有数组啊。。。 height
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+还真有数组啊。。。 defCount
+还真有数组啊。。。 height
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/smallShop/Withdraw/@vant/weapp/toast/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/dialog/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/dialog/index
+还真有数组啊。。。 addPd
+还真有数组啊。。。 addPd
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+还真有数组啊。。。 addPd
+还真有数组啊。。。 addPd
+还真有数组啊。。。 addPd
+还真有数组啊。。。 addPd
+还真有数组啊。。。 addPd
+还真有数组啊。。。 addPd
+还真有数组啊。。。 orderSwitch
+找不到这个组件: pages/Index/@vant/weapp/notice-bar/index
+还真有数组啊。。。 jifenNum
+还真有数组啊。。。 addcouponList
+还真有数组啊。。。 tempId
+还真有数组啊。。。 appName
+还真有数组啊。。。 mainBanner
+还真有数组啊。。。 tempId
+还真有数组啊。。。 orderSwitch
+还真有数组啊。。。 tempId
+还真有数组啊。。。 orderSwitch
+还真有数组啊。。。 tempId
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 tempId
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 tempId
+还真有数组啊。。。 orderSwitch
+还真有数组啊。。。 isIntegral
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 tempId
+还真有数组啊。。。 orderSwitch
+还真有数组啊。。。 tempId
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 jifenNum
+还真有数组啊。。。 addcouponList
+还真有数组啊。。。 tempId
+还真有数组啊。。。 appName
+还真有数组啊。。。 mainBanner
+还真有数组啊。。。 CouponsNum
+还真有数组啊。。。 jifenNum
+还真有数组啊。。。 orderSwitch
+还真有数组啊。。。 tempId
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 settingImg
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 jifenNum
+还真有数组啊。。。 addcouponList
+还真有数组啊。。。 tempId
+还真有数组啊。。。 appName
+还真有数组啊。。。 mainBanner
+还真有数组啊。。。 tempId
+还真有数组啊。。。 orderSwitch
+还真有数组啊。。。 tempId
+还真有数组啊。。。 orderSwitch
+还真有数组啊。。。 tempId
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 tempId
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 tempId
+还真有数组啊。。。 orderSwitch
+还真有数组啊。。。 isIntegral
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 tempId
+还真有数组啊。。。 tempId
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 tempId
+还真有数组啊。。。 tempId
+还真有数组啊。。。 orderSwitch
+还真有数组啊。。。 jifenNum
+还真有数组啊。。。 addcouponList
+还真有数组啊。。。 tempId
+还真有数组啊。。。 appName
+还真有数组啊。。。 mainBanner
+还真有数组啊。。。 CouponsNum
+还真有数组啊。。。 jifenNum
+还真有数组啊。。。 orderSwitch
+还真有数组啊。。。 tempId
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 settingImg
+还真有数组啊。。。 marchantId
+还真有数组啊。。。 height
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+还真有数组啊。。。 height
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+还真有数组啊。。。 height
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/tabbar/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/tabbar-item/index
+找不到这个组件: pages/smallShop/myShop/@vant/weapp/tabbar-item/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/count-down/index
+找不到这个组件: pages/smallShop/Withdraw/@vant/weapp/checkbox-group/index
+找不到这个组件: pages/smallShop/Withdraw/@vant/weapp/checkbox/index
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/smallShop/Withdraw/@vant/weapp/toast/index
+还真有数组啊。。。 defCount
+找不到这个组件: pages/special_goods/goods_detail/@vant/weapp/popup/index
+找不到这个组件: pages/tabPage/home/@vant/weapp/icon/index
+还真有数组啊。。。 height
+write pages.json success!
+write manifest.json success!
+write main.js success!
+
+
+统计信息：
+
+vue文件数量: 332
+支付api数量: 21
+登录api数量: 7
+
+恭喜你，转换完成！
+用时: 167.905s
+在该小程序项目的同级目录可以看到_uni结尾的项目，即是转换好的uniapp项目，相关日志在该目录里。
+
+使用说明：
+    1.因各种原因，本工具并非100%完美转换！有问题实属正常！
+    2.如遇运行报错，请添加QQ群(780359397、361784059、603659851)带图反馈或https://github.com/zhangdaren/miniprogram-to-uniapp提交Issue！
+    3.更多信息请查阅转换后目录里的 README.md 和 transform.log
+
+
+stdout: 
+stderr: 
+cancel last request:0
+stdout: 
+stderr: 
+cancel last request:0
+cancel last request:0
+stdout: 
+stderr: 
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":15,"line":372},"start":{"character":8,"line":372}},"rangeLength":7,"rangeOffset":22214,"text":""}]
+event: [{"range":{"end":{"character":8,"line":372},"start":{"character":8,"line":372}},"rangeLength":7,"rangeOffset":22214,"text":" v-else"}]
+event: [{"range":{"end":{"character":0,"line":372},"start":{"character":0,"line":372}},"rangeLength":17,"rangeOffset":22206,"text":"\t\t<block v-else>\n"}]
+event: [{"range":{"end":{"character":16,"line":372},"start":{"character":16,"line":372}},"rangeLength":4,"rangeOffset":22222,"text":" -->"}]
+event: [{"range":{"end":{"character":2,"line":372},"start":{"character":2,"line":372}},"rangeLength":5,"rangeOffset":22208,"text":"<!-- "}]
+event: [{"range":{"end":{"character":15,"line":373},"start":{"character":9,"line":373}},"rangeLength":6,"rangeOffset":22241,"text":""}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":0,"line":354},"start":{"character":0,"line":354}},"rangeLength":4,"rangeOffset":21540,"text":" -->"}]
+event: [{"range":{"end":{"character":1,"line":5},"start":{"character":1,"line":5}},"rangeLength":5,"rangeOffset":106,"text":"<!-- "}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":4,"line":59},"start":{"character":4,"line":59}},"rangeLength":2,"rangeOffset":1473,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":60},"start":{"character":0,"line":60}},"rangeLength":3,"rangeOffset":1475,"text":"\t\t\t"}]
+cancel last request:0
+event: [{"range":{"end":{"character":4,"line":63},"start":{"character":4,"line":63}},"rangeLength":2,"rangeOffset":1520,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":64},"start":{"character":0,"line":64}},"rangeLength":3,"rangeOffset":1522,"text":"\t\t\t"}]
+event: [{"range":{"end":{"character":5,"line":67},"start":{"character":5,"line":67}},"rangeLength":2,"rangeOffset":1564,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":68},"start":{"character":0,"line":68}},"rangeLength":3,"rangeOffset":1566,"text":"\t\t\t"}]
+event: [{"range":{"end":{"character":3,"line":67},"start":{"character":3,"line":67}},"rangeLength":3,"rangeOffset":1562,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":66},"start":{"character":3,"line":66}},"rangeLength":3,"rangeOffset":1548,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":65},"start":{"character":3,"line":65}},"rangeLength":3,"rangeOffset":1532,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":64},"start":{"character":3,"line":64}},"rangeLength":3,"rangeOffset":1525,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":63},"start":{"character":3,"line":63}},"rangeLength":3,"rangeOffset":1519,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":62},"start":{"character":3,"line":62}},"rangeLength":3,"rangeOffset":1505,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":61},"start":{"character":3,"line":61}},"rangeLength":3,"rangeOffset":1485,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":60},"start":{"character":3,"line":60}},"rangeLength":3,"rangeOffset":1478,"text":"// "}]
+sendEvent willSaveTextDocument
+event: [{"range":{"end":{"character":6,"line":60},"start":{"character":3,"line":60}},"rangeLength":3,"rangeOffset":1478,"text":""}]
+event: [{"range":{"end":{"character":6,"line":61},"start":{"character":3,"line":61}},"rangeLength":3,"rangeOffset":1485,"text":""}]
+event: [{"range":{"end":{"character":6,"line":62},"start":{"character":3,"line":62}},"rangeLength":3,"rangeOffset":1505,"text":""}]
+event: [{"range":{"end":{"character":6,"line":63},"start":{"character":3,"line":63}},"rangeLength":3,"rangeOffset":1519,"text":""}]
+event: [{"range":{"end":{"character":6,"line":64},"start":{"character":3,"line":64}},"rangeLength":3,"rangeOffset":1525,"text":""}]
+event: [{"range":{"end":{"character":6,"line":65},"start":{"character":3,"line":65}},"rangeLength":3,"rangeOffset":1532,"text":""}]
+event: [{"range":{"end":{"character":6,"line":66},"start":{"character":3,"line":66}},"rangeLength":3,"rangeOffset":1548,"text":""}]
+event: [{"range":{"end":{"character":6,"line":67},"start":{"character":3,"line":67}},"rangeLength":3,"rangeOffset":1562,"text":""}]
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":0,"line":60},"start":{"character":4,"line":59}},"rangeLength":2,"rangeOffset":1473,"text":""}]
+cancel last request:0
+event: [{"range":{"end":{"character":5,"line":59},"start":{"character":4,"line":59}},"rangeLength":1,"rangeOffset":1473,"text":""}]
+event: [{"range":{"end":{"character":5,"line":59},"start":{"character":4,"line":59}},"rangeLength":1,"rangeOffset":1473,"text":""}]
+event: [{"range":{"end":{"character":5,"line":59},"start":{"character":4,"line":59}},"rangeLength":1,"rangeOffset":1473,"text":""}]
+cancel last request:0
+event: [{"range":{"end":{"character":5,"line":59},"start":{"character":5,"line":59}},"rangeLength":2,"rangeOffset":1474,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":60},"start":{"character":0,"line":60}},"rangeLength":3,"rangeOffset":1476,"text":"\t\t\t"}]
+event: [{"range":{"end":{"character":3,"line":67},"start":{"character":3,"line":67}},"rangeLength":3,"rangeOffset":1562,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":66},"start":{"character":3,"line":66}},"rangeLength":3,"rangeOffset":1548,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":65},"start":{"character":3,"line":65}},"rangeLength":3,"rangeOffset":1532,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":64},"start":{"character":3,"line":64}},"rangeLength":3,"rangeOffset":1525,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":63},"start":{"character":3,"line":63}},"rangeLength":3,"rangeOffset":1519,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":62},"start":{"character":3,"line":62}},"rangeLength":3,"rangeOffset":1505,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":61},"start":{"character":3,"line":61}},"rangeLength":3,"rangeOffset":1485,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":60},"start":{"character":3,"line":60}},"rangeLength":3,"rangeOffset":1479,"text":"// "}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":37,"line":138},"start":{"character":34,"line":138}},"rangeLength":3,"rangeOffset":7591,"text":""}]
+event: [{"range":{"end":{"character":16,"line":100},"start":{"character":11,"line":100}},"rangeLength":5,"rangeOffset":4975,"text":""}]
+event: [{"range":{"end":{"character":11,"line":100},"start":{"character":11,"line":100}},"rangeLength":5,"rangeOffset":4975,"text":"<!-- "}]
+event: [{"range":{"end":{"character":34,"line":138},"start":{"character":34,"line":138}},"rangeLength":3,"rangeOffset":7591,"text":"-->"}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":23,"line":107},"start":{"character":19,"line":107}},"rangeLength":4,"rangeOffset":5409,"text":""}]
+event: [{"range":{"end":{"character":16,"line":100},"start":{"character":11,"line":100}},"rangeLength":5,"rangeOffset":4975,"text":""}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":11,"line":100},"start":{"character":11,"line":100}},"rangeLength":5,"rangeOffset":4975,"text":"<!-- "}]
+event: [{"range":{"end":{"character":19,"line":107},"start":{"character":19,"line":107}},"rangeLength":4,"rangeOffset":5409,"text":" -->"}]
+cancel last request:0
+cancel last request:0
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":3,"line":976},"start":{"character":3,"line":976}},"rangeLength":2,"rangeOffset":19171,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":977},"start":{"character":0,"line":977}},"rangeLength":1,"rangeOffset":19173,"text":"\t"}]
+event: [{"range":{"end":{"character":1,"line":977},"start":{"character":1,"line":977}},"rangeLength":3158,"rangeOffset":19174,"text":"\"globalStyle\": {\r\n\t\t\"navigationBarTitleText\": \"Vant For Uni-app\",\r\n\t\t\"navigationBarBackgroundColor\": \"#000000\",\r\n\t\t\"navigationBarTextStyle\": \"white\",\r\n\t\t\"backgroundTextStyle\": \"dark\",\r\n\t\t\"enablePullDownRefresh\":true,\r\n\t\t\"backgroundColor\": \"#f8f8f8\",\r\n\t\t\"usingComponents\": { //这里为方便，全局引入了所有组件，也可以在某个page下单独引用某个组件\r\n\t\t\t\"demo-block\": \"/wxcomponents/vant/demo-block/index\",\r\n\t\t\t\"van-action-sheet\": \"/wxcomponents/vant/action-sheet/index\",\r\n\t\t\t\"van-area\": \"/wxcomponents/vant/area/index\",\r\n\t\t\t// \"van-badge\": \"/wxcomponents/vant/badge/index\",\r\n\t\t\t// \"van-badge-group\": \"/wxcomponents/vant/badge-group/index\",\r\n\t\t\t\"van-button\": \"/wxcomponents/vant/button/index\",\r\n\t\t\t\"van-card\": \"/wxcomponents/vant/card/index\",\r\n\t\t\t\"van-cell\": \"/wxcomponents/vant/cell/index\",\r\n\t\t\t\"van-cell-group\": \"/wxcomponents/vant/cell-group/index\",\r\n\t\t\t\"van-checkbox\": \"/wxcomponents/vant/checkbox/index\",\r\n\t\t\t\"van-checkbox-group\": \"/wxcomponents/vant/checkbox-group/index\",\r\n\t\t\t\"van-col\": \"/wxcomponents/vant/col/index\",\r\n\t\t\t\"van-dialog\": \"/wxcomponents/vant/dialog/index\",\r\n\t\t\t\"van-field\": \"/wxcomponents/vant/field/index\",\r\n\t\t\t\"van-goods-action\": \"/wxcomponents/vant/goods-action/index\",\r\n\t\t\t\"van-goods-action-icon\": \"/wxcomponents/vant/goods-action-icon/index\",\r\n\t\t\t\"van-goods-action-button\": \"/wxcomponents/vant/goods-action-button/index\",\r\n\t\t\t\"van-icon\": \"/wxcomponents/vant/icon/index\",\r\n\t\t\t\"van-loading\": \"/wxcomponents/vant/loading/index\",\r\n\t\t\t\"van-nav-bar\": \"/wxcomponents/vant/nav-bar/index\",\r\n\t\t\t\"van-notice-bar\": \"/wxcomponents/vant/notice-bar/index\",\r\n\t\t\t\"van-notify\": \"/wxcomponents/vant/notify/index\",\r\n\t\t\t\"van-panel\": \"/wxcomponents/vant/panel/index\",\r\n\t\t\t\"van-popup\": \"/wxcomponents/vant/popup/index\",\r\n\t\t\t\"van-progress\": \"/wxcomponents/vant/progress/index\",\r\n\t\t\t\"van-radio\": \"/wxcomponents/vant/radio/index\",\r\n\t\t\t\"van-radio-group\": \"/wxcomponents/vant/radio-group/index\",\r\n\t\t\t\"van-row\": \"/wxcomponents/vant/row/index\",\r\n\t\t\t\"van-search\": \"/wxcomponents/vant/search/index\",\r\n\t\t\t\"van-slider\": \"/wxcomponents/vant/slider/index\",\r\n\t\t\t\"van-stepper\": \"/wxcomponents/vant/stepper/index\",\r\n\t\t\t\"van-steps\": \"/wxcomponents/vant/steps/index\",\r\n\t\t\t\"van-submit-bar\": \"/wxcomponents/vant/submit-bar/index\",\r\n\t\t\t\"van-swipe-cell\": \"/wxcomponents/vant/swipe-cell/index\",\r\n\t\t\t\"van-switch\": \"/wxcomponents/vant/switch/index\",\r\n\t\t\t// \"van-switch-cell\": \"/wxcomponents/vant/switch-cell/index\",\r\n\t\t\t\"van-tab\": \"/wxcomponents/vant/tab/index\",\r\n\t\t\t\"van-tabs\": \"/wxcomponents/vant/tabs/index\",\r\n\t\t\t\"van-tabbar\": \"/wxcomponents/vant/tabbar/index\",\r\n\t\t\t\"van-tabbar-item\": \"/wxcomponents/vant/tabbar-item/index\",\r\n\t\t\t\"van-tag\": \"/wxcomponents/vant/tag/index\",\r\n\t\t\t\"van-toast\": \"/wxcomponents/vant/toast/index\",\r\n\t\t\t\"van-transition\": \"/wxcomponents/vant/transition/index\",\r\n\t\t\t\"van-tree-select\": \"/wxcomponents/vant/tree-select/index\",\r\n\t\t\t\"van-datetime-picker\": \"/wxcomponents/vant/datetime-picker/index\",\r\n\t\t\t\"van-rate\": \"/wxcomponents/vant/rate/index\",\r\n\t\t\t\"van-collapse\": \"/wxcomponents/vant/collapse/index\",\r\n\t\t\t\"van-collapse-item\": \"/wxcomponents/vant/collapse-item/index\",\r\n\t\t\t\"van-picker\": \"/wxcomponents/vant/picker/index\"\r\n\t\t}\r\n\t},"}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":1,"line":1041},"start":{"character":1,"line":1041}},"rangeLength":3,"rangeOffset":22496,"text":"// "}]
+event: [{"range":{"end":{"character":1,"line":1040},"start":{"character":1,"line":1040}},"rangeLength":3,"rangeOffset":22460,"text":"// "}]
+event: [{"range":{"end":{"character":1,"line":1039},"start":{"character":1,"line":1039}},"rangeLength":3,"rangeOffset":22428,"text":"// "}]
+event: [{"range":{"end":{"character":1,"line":1038},"start":{"character":1,"line":1038}},"rangeLength":3,"rangeOffset":22386,"text":"// "}]
+event: [{"range":{"end":{"character":1,"line":1037},"start":{"character":1,"line":1037}},"rangeLength":3,"rangeOffset":22352,"text":"// "}]
+event: [{"range":{"end":{"character":1,"line":1036},"start":{"character":1,"line":1036}},"rangeLength":3,"rangeOffset":22334,"text":"// "}]
+sendEvent willSaveTextDocument
+event: [{"range":{"end":{"character":3,"line":1035},"start":{"character":2,"line":1035}},"rangeLength":1,"rangeOffset":22331,"text":""}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":24,"line":277},"start":{"character":23,"line":277}},"rangeLength":1,"rangeOffset":18330,"text":""}]
+event: [{"range":{"end":{"character":23,"line":277},"start":{"character":22,"line":277}},"rangeLength":1,"rangeOffset":18329,"text":""}]
+cancel last request:0
+event: [{"range":{"end":{"character":28,"line":278},"start":{"character":27,"line":278}},"rangeLength":1,"rangeOffset":18382,"text":""}]
+event: [{"range":{"end":{"character":27,"line":278},"start":{"character":26,"line":278}},"rangeLength":1,"rangeOffset":18381,"text":""}]
+sendEvent willSaveTextDocument
+cancel last request:0
+event: [{"range":{"end":{"character":26,"line":278},"start":{"character":26,"line":278}},"rangeLength":1,"rangeOffset":18381,"text":"."}]
+cancel last request:0
+event: [{"range":{"end":{"character":27,"line":278},"start":{"character":27,"line":278}},"rangeLength":1,"rangeOffset":18382,"text":"/"}]
+event: [{"range":{"end":{"character":22,"line":277},"start":{"character":22,"line":277}},"rangeLength":1,"rangeOffset":18329,"text":"."}]
+event: [{"range":{"end":{"character":23,"line":277},"start":{"character":23,"line":277}},"rangeLength":1,"rangeOffset":18330,"text":"/"}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":23,"line":58},"start":{"character":22,"line":58}},"rangeLength":1,"rangeOffset":2945,"text":""}]
+event: [{"range":{"end":{"character":22,"line":58},"start":{"character":21,"line":58}},"rangeLength":1,"rangeOffset":2944,"text":""}]
+cancel last request:0
+event: [{"range":{"end":{"character":24,"line":59},"start":{"character":23,"line":59}},"rangeLength":1,"rangeOffset":2992,"text":""}]
+event: [{"range":{"end":{"character":23,"line":59},"start":{"character":22,"line":59}},"rangeLength":1,"rangeOffset":2991,"text":""}]
+cancel last request:0
+cancel last request:0
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":21,"line":58},"start":{"character":21,"line":58}},"rangeLength":1,"rangeOffset":2944,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 22, line: 58 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 146
+[HTML Language Server] previous token pos: 143
+[HTML Language Server] previous token end: 169
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+event: [{"range":{"end":{"character":22,"line":58},"start":{"character":22,"line":58}},"rangeLength":1,"rangeOffset":2945,"text":"/"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 23, line: 58 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 147
+[HTML Language Server] previous token pos: 143
+[HTML Language Server] previous token end: 170
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+event: [{"range":{"end":{"character":23,"line":58},"start":{"character":23,"line":58}},"rangeLength":15,"rangeOffset":2946,"text":"miniprogram_npm"}]
+event: [{"range":{"end":{"character":38,"line":58},"start":{"character":38,"line":58}},"rangeLength":1,"rangeOffset":2961,"text":"/"}]
+cancel last request:0
+event: [{"range":{"end":{"character":22,"line":59},"start":{"character":22,"line":59}},"rangeLength":18,"rangeOffset":3009,"text":"@/miniprogram_npm/"}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":0,"line":59},"start":{"character":0,"line":59}},"rangeLength":3,"rangeOffset":2987,"text":"// "}]
+event: [{"range":{"end":{"character":0,"line":58},"start":{"character":0,"line":58}},"rangeLength":3,"rangeOffset":2923,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":67},"start":{"character":4,"line":67}},"rangeLength":3,"rangeOffset":3244,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":66},"start":{"character":4,"line":66}},"rangeLength":3,"rangeOffset":3227,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":65},"start":{"character":4,"line":65}},"rangeLength":3,"rangeOffset":3210,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":64},"start":{"character":4,"line":64}},"rangeLength":3,"rangeOffset":3192,"text":"// "}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":41,"line":58},"start":{"character":24,"line":58}},"rangeLength":17,"rangeOffset":2947,"text":""}]
+event: [{"range":{"end":{"character":24,"line":58},"start":{"character":24,"line":58}},"rangeLength":1,"rangeOffset":2947,"text":"."}]
+event: [{"range":{"end":{"character":42,"line":59},"start":{"character":25,"line":59}},"rangeLength":17,"rangeOffset":2999,"text":""}]
+event: [{"range":{"end":{"character":25,"line":59},"start":{"character":25,"line":59}},"rangeLength":1,"rangeOffset":2999,"text":"."}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+buffer sync supports: []
+buffer sync supports: []
+buffer sync supports: []
+event: [{"range":{"end":{"character":3,"line":59},"start":{"character":0,"line":59}},"rangeLength":3,"rangeOffset":2974,"text":""}]
+event: [{"range":{"end":{"character":3,"line":58},"start":{"character":0,"line":58}},"rangeLength":3,"rangeOffset":2923,"text":""}]
+event: [{"range":{"end":{"character":7,"line":67},"start":{"character":4,"line":67}},"rangeLength":3,"rangeOffset":3215,"text":""}]
+event: [{"range":{"end":{"character":7,"line":66},"start":{"character":4,"line":66}},"rangeLength":3,"rangeOffset":3195,"text":""}]
+event: [{"range":{"end":{"character":7,"line":65},"start":{"character":4,"line":65}},"rangeLength":3,"rangeOffset":3175,"text":""}]
+event: [{"range":{"end":{"character":7,"line":64},"start":{"character":4,"line":64}},"rangeLength":3,"rangeOffset":3154,"text":""}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":2,"line":1035},"start":{"character":3,"line":976}},"rangeLength":3160,"rangeOffset":19171,"text":""}]
+event: [{"range":{"end":{"character":4,"line":982},"start":{"character":1,"line":982}},"rangeLength":3,"rangeOffset":19350,"text":""}]
+event: [{"range":{"end":{"character":4,"line":981},"start":{"character":1,"line":981}},"rangeLength":3,"rangeOffset":19311,"text":""}]
+event: [{"range":{"end":{"character":4,"line":980},"start":{"character":1,"line":980}},"rangeLength":3,"rangeOffset":19276,"text":""}]
+event: [{"range":{"end":{"character":4,"line":979},"start":{"character":1,"line":979}},"rangeLength":3,"rangeOffset":19231,"text":""}]
+event: [{"range":{"end":{"character":4,"line":978},"start":{"character":1,"line":978}},"rangeLength":3,"rangeOffset":19194,"text":""}]
+event: [{"range":{"end":{"character":4,"line":977},"start":{"character":1,"line":977}},"rangeLength":3,"rangeOffset":19173,"text":""}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":30,"line":5181},"start":{"character":30,"line":5181}},"rangeLength":3,"rangeOffset":180636,"text":" */"}]
+event: [{"range":{"end":{"character":0,"line":5181},"start":{"character":0,"line":5181}},"rangeLength":3,"rangeOffset":180606,"text":"/* "}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":29,"line":318},"start":{"character":28,"line":318}},"rangeLength":1,"rangeOffset":19088,"text":""}]
+event: [{"range":{"end":{"character":28,"line":318},"start":{"character":28,"line":318}},"rangeLength":1,"rangeOffset":19088,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 29, line: 318 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 969
+[HTML Language Server] previous token pos: 966
+[HTML Language Server] previous token end: 1001
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":24,"line":317},"start":{"character":23,"line":317}},"rangeLength":1,"rangeOffset":19031,"text":""}]
+event: [{"range":{"end":{"character":23,"line":317},"start":{"character":23,"line":317}},"rangeLength":1,"rangeOffset":19031,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 24, line: 317 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 911
+[HTML Language Server] previous token pos: 908
+[HTML Language Server] previous token end: 937
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+event: [{"range":{"end":{"character":24,"line":316},"start":{"character":23,"line":316}},"rangeLength":1,"rangeOffset":18979,"text":""}]
+event: [{"range":{"end":{"character":23,"line":316},"start":{"character":23,"line":316}},"rangeLength":1,"rangeOffset":18979,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 24, line: 316 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 858
+[HTML Language Server] previous token pos: 855
+[HTML Language Server] previous token end: 884
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+event: [{"range":{"end":{"character":22,"line":315},"start":{"character":21,"line":315}},"rangeLength":1,"rangeOffset":18929,"text":""}]
+event: [{"range":{"end":{"character":21,"line":315},"start":{"character":21,"line":315}},"rangeLength":1,"rangeOffset":18929,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 22, line: 315 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 807
+[HTML Language Server] previous token pos: 804
+[HTML Language Server] previous token end: 831
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+event: [{"range":{"end":{"character":21,"line":314},"start":{"character":20,"line":314}},"rangeLength":1,"rangeOffset":18882,"text":""}]
+event: [{"range":{"end":{"character":20,"line":314},"start":{"character":20,"line":314}},"rangeLength":1,"rangeOffset":18882,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 21, line: 314 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 759
+[HTML Language Server] previous token pos: 756
+[HTML Language Server] previous token end: 782
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+event: [{"range":{"end":{"character":23,"line":313},"start":{"character":22,"line":313}},"rangeLength":1,"rangeOffset":18834,"text":""}]
+event: [{"range":{"end":{"character":22,"line":313},"start":{"character":22,"line":313}},"rangeLength":1,"rangeOffset":18834,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 23, line: 313 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 710
+[HTML Language Server] previous token pos: 707
+[HTML Language Server] previous token end: 735
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+event: [{"range":{"end":{"character":25,"line":312},"start":{"character":24,"line":312}},"rangeLength":1,"rangeOffset":18782,"text":""}]
+event: [{"range":{"end":{"character":24,"line":312},"start":{"character":24,"line":312}},"rangeLength":1,"rangeOffset":18782,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 25, line: 312 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 657
+[HTML Language Server] previous token pos: 654
+[HTML Language Server] previous token end: 684
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":22,"line":51},"start":{"character":21,"line":51}},"rangeLength":1,"rangeOffset":2617,"text":""}]
+event: [{"range":{"end":{"character":21,"line":51},"start":{"character":21,"line":51}},"rangeLength":1,"rangeOffset":2617,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 22, line: 51 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 347
+[HTML Language Server] previous token pos: 344
+[HTML Language Server] previous token end: 371
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+event: [{"range":{"end":{"character":27,"line":50},"start":{"character":26,"line":50}},"rangeLength":1,"rangeOffset":2563,"text":""}]
+event: [{"range":{"end":{"character":26,"line":50},"start":{"character":26,"line":50}},"rangeLength":1,"rangeOffset":2563,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 27, line: 50 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 292
+[HTML Language Server] previous token pos: 289
+[HTML Language Server] previous token end: 322
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+event: [{"range":{"end":{"character":27,"line":49},"start":{"character":26,"line":49}},"rangeLength":1,"rangeOffset":2504,"text":""}]
+event: [{"range":{"end":{"character":26,"line":49},"start":{"character":26,"line":49}},"rangeLength":1,"rangeOffset":2504,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 27, line: 49 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 232
+[HTML Language Server] previous token pos: 229
+[HTML Language Server] previous token end: 262
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":22,"line":47},"start":{"character":21,"line":47}},"rangeLength":1,"rangeOffset":2398,"text":""}]
+event: [{"range":{"end":{"character":21,"line":47},"start":{"character":21,"line":47}},"rangeLength":1,"rangeOffset":2398,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 22, line: 47 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 124
+[HTML Language Server] previous token pos: 121
+[HTML Language Server] previous token end: 148
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":22,"line":47},"start":{"character":21,"line":47}},"rangeLength":1,"rangeOffset":2398,"text":""}]
+event: [{"range":{"end":{"character":21,"line":47},"start":{"character":21,"line":47}},"rangeLength":1,"rangeOffset":2398,"text":"."}]
+cancel last request:0
+event: [{"range":{"end":{"character":27,"line":49},"start":{"character":26,"line":49}},"rangeLength":1,"rangeOffset":2504,"text":""}]
+event: [{"range":{"end":{"character":26,"line":49},"start":{"character":26,"line":49}},"rangeLength":1,"rangeOffset":2504,"text":"."}]
+event: [{"range":{"end":{"character":27,"line":50},"start":{"character":26,"line":50}},"rangeLength":1,"rangeOffset":2563,"text":""}]
+event: [{"range":{"end":{"character":26,"line":50},"start":{"character":26,"line":50}},"rangeLength":1,"rangeOffset":2563,"text":"."}]
+cancel last request:0
+event: [{"range":{"end":{"character":22,"line":51},"start":{"character":21,"line":51}},"rangeLength":1,"rangeOffset":2617,"text":""}]
+event: [{"range":{"end":{"character":21,"line":51},"start":{"character":21,"line":51}},"rangeLength":1,"rangeOffset":2617,"text":"."}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":22,"line":47},"start":{"character":21,"line":47}},"rangeLength":1,"rangeOffset":2398,"text":""}]
+event: [{"range":{"end":{"character":21,"line":47},"start":{"character":21,"line":47}},"rangeLength":15,"rangeOffset":2398,"text":"miniprogram_npm"}]
+event: [{"range":{"end":{"character":21,"line":47},"start":{"character":21,"line":47}},"rangeLength":1,"rangeOffset":2398,"text":"/"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 22, line: 47 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 124
+[HTML Language Server] previous token pos: 121
+[HTML Language Server] previous token end: 163
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+event: [{"range":{"end":{"character":21,"line":47},"start":{"character":21,"line":47}},"rangeLength":1,"rangeOffset":2398,"text":"@"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 22, line: 47 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 124
+[HTML Language Server] previous token pos: 121
+[HTML Language Server] previous token end: 164
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+cancel last request:0
+event: [{"range":{"end":{"character":27,"line":49},"start":{"character":26,"line":49}},"rangeLength":1,"rangeOffset":2520,"text":""}]
+event: [{"range":{"end":{"character":26,"line":49},"start":{"character":26,"line":49}},"rangeLength":18,"rangeOffset":2520,"text":"@/miniprogram_npm/"}]
+event: [{"range":{"end":{"character":27,"line":50},"start":{"character":26,"line":50}},"rangeLength":1,"rangeOffset":2596,"text":""}]
+event: [{"range":{"end":{"character":26,"line":50},"start":{"character":26,"line":50}},"rangeLength":18,"rangeOffset":2596,"text":"@/miniprogram_npm/"}]
+cancel last request:0
+event: [{"range":{"end":{"character":22,"line":51},"start":{"character":21,"line":51}},"rangeLength":1,"rangeOffset":2667,"text":""}]
+event: [{"range":{"end":{"character":21,"line":51},"start":{"character":21,"line":51}},"rangeLength":18,"rangeOffset":2667,"text":"@/miniprogram_npm/"}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":39,"line":51},"start":{"character":21,"line":51}},"rangeLength":18,"rangeOffset":2667,"text":""}]
+event: [{"range":{"end":{"character":21,"line":51},"start":{"character":21,"line":51}},"rangeLength":1,"rangeOffset":2667,"text":"."}]
+event: [{"range":{"end":{"character":44,"line":50},"start":{"character":26,"line":50}},"rangeLength":18,"rangeOffset":2596,"text":""}]
+event: [{"range":{"end":{"character":26,"line":50},"start":{"character":26,"line":50}},"rangeLength":1,"rangeOffset":2596,"text":"."}]
+cancel last request:0
+event: [{"range":{"end":{"character":44,"line":49},"start":{"character":26,"line":49}},"rangeLength":18,"rangeOffset":2520,"text":""}]
+event: [{"range":{"end":{"character":26,"line":49},"start":{"character":26,"line":49}},"rangeLength":1,"rangeOffset":2520,"text":"."}]
+event: [{"range":{"end":{"character":22,"line":47},"start":{"character":21,"line":47}},"rangeLength":1,"rangeOffset":2398,"text":""}]
+event: [{"range":{"end":{"character":22,"line":47},"start":{"character":21,"line":47}},"rangeLength":1,"rangeOffset":2398,"text":""}]
+event: [{"range":{"end":{"character":36,"line":47},"start":{"character":21,"line":47}},"rangeLength":15,"rangeOffset":2398,"text":""}]
+event: [{"range":{"end":{"character":21,"line":47},"start":{"character":21,"line":47}},"rangeLength":1,"rangeOffset":2398,"text":"."}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":25,"line":312},"start":{"character":24,"line":312}},"rangeLength":1,"rangeOffset":18782,"text":""}]
+cancel last request:0
+event: [{"range":{"end":{"character":24,"line":312},"start":{"character":24,"line":312}},"rangeLength":1,"rangeOffset":18782,"text":"."}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 25, line: 312 } }
+isIncomplete: undefined
+fromProvider: 1000
+[HTML Language Server] getRelevantTokens params: 657
+[HTML Language Server] previous token pos: 654
+[HTML Language Server] previous token end: 684
+[HTML Language Server] previous token kind: 10
+isIncomplete: false
+fromProvider: 1058
+firstItem: {"label":"@/App.vue","kind":"File","sortText":"@/App.vue","insertText":"@/App.vue"}
+cancel last request:0
+event: [{"range":{"end":{"character":25,"line":312},"start":{"character":24,"line":312}},"rangeLength":1,"rangeOffset":18782,"text":""}]
+event: [{"range":{"end":{"character":24,"line":312},"start":{"character":24,"line":312}},"rangeLength":1,"rangeOffset":18782,"text":"@"}]
+event: [{"range":{"end":{"character":25,"line":312},"start":{"character":24,"line":312}},"rangeLength":1,"rangeOffset":18782,"text":""}]
+event: [{"range":{"end":{"character":24,"line":312},"start":{"character":24,"line":312}},"rangeLength":1,"rangeOffset":18782,"text":"."}]
+event: [{"range":{"end":{"character":23,"line":313},"start":{"character":22,"line":313}},"rangeLength":1,"rangeOffset":18834,"text":""}]
+event: [{"range":{"end":{"character":22,"line":313},"start":{"character":22,"line":313}},"rangeLength":1,"rangeOffset":18834,"text":"."}]
+event: [{"range":{"end":{"character":21,"line":314},"start":{"character":20,"line":314}},"rangeLength":1,"rangeOffset":18882,"text":""}]
+event: [{"range":{"end":{"character":20,"line":314},"start":{"character":20,"line":314}},"rangeLength":1,"rangeOffset":18882,"text":"."}]
+event: [{"range":{"end":{"character":22,"line":315},"start":{"character":21,"line":315}},"rangeLength":1,"rangeOffset":18929,"text":""}]
+event: [{"range":{"end":{"character":21,"line":315},"start":{"character":21,"line":315}},"rangeLength":1,"rangeOffset":18929,"text":"."}]
+event: [{"range":{"end":{"character":24,"line":316},"start":{"character":23,"line":316}},"rangeLength":1,"rangeOffset":18979,"text":""}]
+event: [{"range":{"end":{"character":23,"line":316},"start":{"character":23,"line":316}},"rangeLength":1,"rangeOffset":18979,"text":"."}]
+event: [{"range":{"end":{"character":24,"line":317},"start":{"character":23,"line":317}},"rangeLength":1,"rangeOffset":19031,"text":""}]
+event: [{"range":{"end":{"character":23,"line":317},"start":{"character":23,"line":317}},"rangeLength":1,"rangeOffset":19031,"text":"."}]
+event: [{"range":{"end":{"character":29,"line":318},"start":{"character":28,"line":318}},"rangeLength":1,"rangeOffset":19088,"text":""}]
+event: [{"range":{"end":{"character":28,"line":318},"start":{"character":28,"line":318}},"rangeLength":1,"rangeOffset":19088,"text":"."}]
+cancel last request:0
+sendEvent willSaveTextDocument
+event: [{"range":{"end":{"character":1,"line":977},"start":{"character":1,"line":977}},"rangeLength":3,"rangeOffset":19173,"text":"// "}]
+event: [{"range":{"end":{"character":1,"line":978},"start":{"character":1,"line":978}},"rangeLength":3,"rangeOffset":19194,"text":"// "}]
+event: [{"range":{"end":{"character":1,"line":979},"start":{"character":1,"line":979}},"rangeLength":3,"rangeOffset":19231,"text":"// "}]
+event: [{"range":{"end":{"character":1,"line":980},"start":{"character":1,"line":980}},"rangeLength":3,"rangeOffset":19276,"text":"// "}]
+event: [{"range":{"end":{"character":1,"line":981},"start":{"character":1,"line":981}},"rangeLength":3,"rangeOffset":19311,"text":"// "}]
+event: [{"range":{"end":{"character":1,"line":982},"start":{"character":1,"line":982}},"rangeLength":3,"rangeOffset":19350,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":976},"start":{"character":3,"line":976}},"rangeLength":3160,"rangeOffset":19171,"text":"\r\n\t\"globalStyle\": {\r\n\t\t\"navigationBarTitleText\": \"Vant For Uni-app\",\r\n\t\t\"navigationBarBackgroundColor\": \"#000000\",\r\n\t\t\"navigationBarTextStyle\": \"white\",\r\n\t\t\"backgroundTextStyle\": \"dark\",\r\n\t\t\"enablePullDownRefresh\":true,\r\n\t\t\"backgroundColor\": \"#f8f8f8\",\r\n\t\t\"usingComponents\": { //这里为方便，全局引入了所有组件，也可以在某个page下单独引用某个组件\r\n\t\t\t\"demo-block\": \"/wxcomponents/vant/demo-block/index\",\r\n\t\t\t\"van-action-sheet\": \"/wxcomponents/vant/action-sheet/index\",\r\n\t\t\t\"van-area\": \"/wxcomponents/vant/area/index\",\r\n\t\t\t// \"van-badge\": \"/wxcomponents/vant/badge/index\",\r\n\t\t\t// \"van-badge-group\": \"/wxcomponents/vant/badge-group/index\",\r\n\t\t\t\"van-button\": \"/wxcomponents/vant/button/index\",\r\n\t\t\t\"van-card\": \"/wxcomponents/vant/card/index\",\r\n\t\t\t\"van-cell\": \"/wxcomponents/vant/cell/index\",\r\n\t\t\t\"van-cell-group\": \"/wxcomponents/vant/cell-group/index\",\r\n\t\t\t\"van-checkbox\": \"/wxcomponents/vant/checkbox/index\",\r\n\t\t\t\"van-checkbox-group\": \"/wxcomponents/vant/checkbox-group/index\",\r\n\t\t\t\"van-col\": \"/wxcomponents/vant/col/index\",\r\n\t\t\t\"van-dialog\": \"/wxcomponents/vant/dialog/index\",\r\n\t\t\t\"van-field\": \"/wxcomponents/vant/field/index\",\r\n\t\t\t\"van-goods-action\": \"/wxcomponents/vant/goods-action/index\",\r\n\t\t\t\"van-goods-action-icon\": \"/wxcomponents/vant/goods-action-icon/index\",\r\n\t\t\t\"van-goods-action-button\": \"/wxcomponents/vant/goods-action-button/index\",\r\n\t\t\t\"van-icon\": \"/wxcomponents/vant/icon/index\",\r\n\t\t\t\"van-loading\": \"/wxcomponents/vant/loading/index\",\r\n\t\t\t\"van-nav-bar\": \"/wxcomponents/vant/nav-bar/index\",\r\n\t\t\t\"van-notice-bar\": \"/wxcomponents/vant/notice-bar/index\",\r\n\t\t\t\"van-notify\": \"/wxcomponents/vant/notify/index\",\r\n\t\t\t\"van-panel\": \"/wxcomponents/vant/panel/index\",\r\n\t\t\t\"van-popup\": \"/wxcomponents/vant/popup/index\",\r\n\t\t\t\"van-progress\": \"/wxcomponents/vant/progress/index\",\r\n\t\t\t\"van-radio\": \"/wxcomponents/vant/radio/index\",\r\n\t\t\t\"van-radio-group\": \"/wxcomponents/vant/radio-group/index\",\r\n\t\t\t\"van-row\": \"/wxcomponents/vant/row/index\",\r\n\t\t\t\"van-search\": \"/wxcomponents/vant/search/index\",\r\n\t\t\t\"van-slider\": \"/wxcomponents/vant/slider/index\",\r\n\t\t\t\"van-stepper\": \"/wxcomponents/vant/stepper/index\",\r\n\t\t\t\"van-steps\": \"/wxcomponents/vant/steps/index\",\r\n\t\t\t\"van-submit-bar\": \"/wxcomponents/vant/submit-bar/index\",\r\n\t\t\t\"van-swipe-cell\": \"/wxcomponents/vant/swipe-cell/index\",\r\n\t\t\t\"van-switch\": \"/wxcomponents/vant/switch/index\",\r\n\t\t\t// \"van-switch-cell\": \"/wxcomponents/vant/switch-cell/index\",\r\n\t\t\t\"van-tab\": \"/wxcomponents/vant/tab/index\",\r\n\t\t\t\"van-tabs\": \"/wxcomponents/vant/tabs/index\",\r\n\t\t\t\"van-tabbar\": \"/wxcomponents/vant/tabbar/index\",\r\n\t\t\t\"van-tabbar-item\": \"/wxcomponents/vant/tabbar-item/index\",\r\n\t\t\t\"van-tag\": \"/wxcomponents/vant/tag/index\",\r\n\t\t\t\"van-toast\": \"/wxcomponents/vant/toast/index\",\r\n\t\t\t\"van-transition\": \"/wxcomponents/vant/transition/index\",\r\n\t\t\t\"van-tree-select\": \"/wxcomponents/vant/tree-select/index\",\r\n\t\t\t\"van-datetime-picker\": \"/wxcomponents/vant/datetime-picker/index\",\r\n\t\t\t\"van-rate\": \"/wxcomponents/vant/rate/index\",\r\n\t\t\t\"van-collapse\": \"/wxcomponents/vant/collapse/index\",\r\n\t\t\t\"van-collapse-item\": \"/wxcomponents/vant/collapse-item/index\",\r\n\t\t\t\"van-picker\": \"/wxcomponents/vant/picker/index\"\r\n\t\t}\r\n\t}"}]
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":6,"line":989},"start":{"character":3,"line":989}},"rangeLength":3,"rangeOffset":19777,"text":""}]
+event: [{"range":{"end":{"character":6,"line":988},"start":{"character":3,"line":988}},"rangeLength":3,"rangeOffset":19723,"text":""}]
+event: [{"range":{"end":{"character":6,"line":1020},"start":{"character":3,"line":1020}},"rangeLength":3,"rangeOffset":21525,"text":""}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+event: [{"range":{"end":{"character":0,"line":51},"start":{"character":0,"line":51}},"rangeLength":3,"rangeOffset":2596,"text":"// "}]
+event: [{"range":{"end":{"character":0,"line":50},"start":{"character":0,"line":50}},"rangeLength":3,"rangeOffset":2537,"text":"// "}]
+event: [{"range":{"end":{"character":0,"line":49},"start":{"character":0,"line":49}},"rangeLength":3,"rangeOffset":2478,"text":"// "}]
+event: [{"range":{"end":{"character":0,"line":48},"start":{"character":0,"line":48}},"rangeLength":3,"rangeOffset":2425,"text":"// "}]
+event: [{"range":{"end":{"character":0,"line":47},"start":{"character":0,"line":47}},"rangeLength":3,"rangeOffset":2377,"text":"// "}]
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":4,"line":62},"start":{"character":4,"line":62}},"rangeLength":3,"rangeOffset":2946,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":61},"start":{"character":4,"line":61}},"rangeLength":3,"rangeOffset":2930,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":60},"start":{"character":4,"line":60}},"rangeLength":3,"rangeOffset":2908,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":59},"start":{"character":4,"line":59}},"rangeLength":3,"rangeOffset":2886,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":58},"start":{"character":4,"line":58}},"rangeLength":3,"rangeOffset":2870,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":57},"start":{"character":4,"line":57}},"rangeLength":3,"rangeOffset":2853,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":56},"start":{"character":4,"line":56}},"rangeLength":3,"rangeOffset":2835,"text":"// "}]
+sendEvent willSaveTextDocument
+cancel last request:0
+authorize/userLogin
+cancel last request:0
+authorize/userLogin
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":0,"line":59},"start":{"character":0,"line":59}},"rangeLength":3,"rangeOffset":2971,"text":"// "}]
+event: [{"range":{"end":{"character":0,"line":58},"start":{"character":0,"line":58}},"rangeLength":3,"rangeOffset":2923,"text":"// "}]
+cancel last request:0
+event: [{"range":{"end":{"character":4,"line":67},"start":{"character":4,"line":67}},"rangeLength":3,"rangeOffset":3212,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":66},"start":{"character":4,"line":66}},"rangeLength":3,"rangeOffset":3195,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":65},"start":{"character":4,"line":65}},"rangeLength":3,"rangeOffset":3178,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":64},"start":{"character":4,"line":64}},"rangeLength":3,"rangeOffset":3160,"text":"// "}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":0,"line":2281},"start":{"character":0,"line":0}},"rangeLength":76411,"rangeOffset":0,"text":""}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":4,"line":412},"start":{"character":4,"line":412}},"rangeLength":3,"rangeOffset":25318,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":411},"start":{"character":4,"line":411}},"rangeLength":3,"rangeOffset":25297,"text":"// "}]
+event: [{"range":{"end":{"character":4,"line":410},"start":{"character":4,"line":410}},"rangeLength":3,"rangeOffset":25279,"text":"// "}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":0,"line":263},"start":{"character":0,"line":263}},"rangeLength":3,"rangeOffset":14813,"text":"// "}]
+event: [{"range":{"end":{"character":0,"line":262},"start":{"character":0,"line":262}},"rangeLength":3,"rangeOffset":14763,"text":"// "}]
+event: [{"range":{"end":{"character":8,"line":270},"start":{"character":8,"line":270}},"rangeLength":3,"rangeOffset":15072,"text":"// "}]
+event: [{"range":{"end":{"character":8,"line":269},"start":{"character":8,"line":269}},"rangeLength":3,"rangeOffset":15054,"text":"// "}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+call deactive hbuilderx-language-services
+call deactive uniapp-basic
+call deactive unicloud
+call deactive launcher

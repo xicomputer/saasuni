@@ -1,0 +1,184 @@
+/* flex布局 */
+
+/* flex盒子默认排列 */
+.me-fx-row {
+    display: flex;
+}
+.me-fx-col {
+    display: flex;
+    flex-direction: column;
+}
+.me-fx-start-c {
+    align-items: center;
+}
+.me-fx-start-end {
+    align-items: flex-end;
+}
+
+/* 两端对齐 */
+.me-fx-sb {
+    justify-content: space-between;
+}
+.me-fx-sb-c {
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20rpx;
+}
+.me-fx-sb-end {
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+/* 两端对齐，两侧有边距 */
+.me-fx-sa {
+    justify-content: space-around;
+}
+.me-fx-sa-c {
+    justify-content: space-around;
+    align-items: center;
+}
+.me-fx-sa-end {
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+/* 居中对齐 */
+.me-fx-c {
+    justify-content: center;
+}
+.me-fx-c-c {
+    justify-content: center;
+    align-items: center;
+}
+.me-fx-c-end {
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/* 尾部对其 */
+.me-fx-end {
+    justify-content: flex-end;
+}
+.me-fx-end-c {
+    justify-content: flex-end;
+    align-items: center;
+}
+.me-fx-end-end {
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.me-fx-1 {
+    flex: 1;
+}
+
+/* 浮动布局 */
+
+/* 浮动元素父容器 */
+.me-ft-p::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+/* 左浮动 */
+.me-lt-ft {
+    float: left;
+}
+
+/* 又浮动 */
+.me-rt-ft {
+    float: right;
+}
+
+/* 多余文本省略号截取样式 */
+.me-full-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.me-full-line2 {
+    -webkit-line-clamp: 2;
+}
+
+/* 定位 */
+.me-pos-rel {
+    position: relative;
+}
+.me-pos-abs {
+    position: absolute;
+}
+.me-pos-fixed {
+    position: fixed;
+}
+image {
+    vertical-align: middle;
+}
+
+/* components/video-button-bar.wxss */
+.icon-container {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 999;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20rpx;
+    box-sizing: border-box;
+}
+.daizhi-img {
+    width: 32rpx;
+    height: 32rpx;
+}
+.title-text {
+    font-size: 32rpx;
+    color: #fff;
+    max-width: 236rpx;
+    font-weight: bold;
+    margin: 0 10rpx;
+}
+.member-label {
+    font-size: 20rpx;
+    background-color: #ff0000;
+    padding: 5rpx 10rpx;
+    border-radius: 6rpx;
+}
+.symbol {
+    font-size: 24rpx;
+    color: #fff;
+    font-weight: bold;
+}
+.amount-num {
+    font-size: 36rpx;
+    color: #fff;
+    font-weight: bold;
+    padding-right: 5rpx;
+}
+.introduce-box {
+    margin-top: 20rpx;
+}
+.introduce {
+    width: 500rpx;
+    font-size: 20rpx;
+    color: #fff;
+    -webkit-line-clamp: 2;
+}
+.buy-btn {
+    font-size: 26rpx;
+    color: #fff;
+    font-weight: bold;
+    padding: 10rpx;
+    background-color: #e23e3e;
+    border-radius: 8rpx;
+}
+.shop-entry {
+    position: absolute;
+    bottom: 220rpx;
+    right: 30rpx;
+    width: 88rpx;
+    height: 88rpx;
+    z-index: 999;
+}
+

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "预订/自取订单",
+  "backgroundTextStyle": "dark",
+  "usingComponents": {
+    "to-bottom": "/pages/Component/toBottom/index"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="add-subtract-num-container"><text data-event-opts="{{[['tap',[['minusHandle',['$event']]]]]}}" class="icon icon-jian handle-btn" catchtap="__e"></text><text class="count-num">{{count}}</text><text data-event-opts="{{[['tap',[['addHandle',['$event']]]]]}}" class="icon icon-add handle-btn" catchtap="__e"></text></view>

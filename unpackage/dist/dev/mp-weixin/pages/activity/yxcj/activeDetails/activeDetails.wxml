@@ -1,0 +1,1 @@
+<view><block wx:if="{{buton}}"><view></view></block><block wx:else><web-view src="{{'https://xssj.letterbook.cn/?applet_token='+token+'&activityId='+activityId+'&marchant='+marchant+'#/yxcj/'+tag}}"></web-view></block></view>

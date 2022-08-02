@@ -1,0 +1,1 @@
+<view class="canvas-style" style="{{('top:'+-canvasHeight+'px')}}"><canvas style="{{('width:'+canvasWidth+'px;height:'+canvasHeight+'px;')}}" id="{{canvasId}}" height="{{canvasHeight*4+'px'}}" width="{{canvasWidth*4+'px'}}"></canvas></view>

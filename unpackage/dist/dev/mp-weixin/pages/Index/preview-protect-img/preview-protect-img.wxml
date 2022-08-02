@@ -1,0 +1,1 @@
+<view class="me-fx-col me-fx-c-c preview-img-page"><image class="img" src="{{showImg}}"></image><image class="watermark-img" src="{{watermarkUrl}}"></image></view>

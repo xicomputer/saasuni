@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商家动态",
+  "usingComponents": {
+    "no-data": "/pages/Component/noData/index"
+  }
+}

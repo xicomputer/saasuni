@@ -1,0 +1,173 @@
+/* flex布局 */
+
+/* flex盒子默认排列 */
+.me-fx-row {
+    display: flex;
+}
+.me-fx-col {
+    display: flex;
+    flex-direction: column;
+}
+.me-fx-start-c {
+    align-items: center;
+}
+.me-fx-start-end {
+    align-items: flex-end;
+}
+
+/* 两端对齐 */
+.me-fx-sb {
+    justify-content: space-between;
+}
+.me-fx-sb-c {
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20rpx;
+}
+.me-fx-sb-end {
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+/* 两端对齐，两侧有边距 */
+.me-fx-sa {
+    justify-content: space-around;
+}
+.me-fx-sa-c {
+    justify-content: space-around;
+    align-items: center;
+}
+.me-fx-sa-end {
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+/* 居中对齐 */
+.me-fx-c {
+    justify-content: center;
+}
+.me-fx-c-c {
+    justify-content: center;
+    align-items: center;
+}
+.me-fx-c-end {
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/* 尾部对其 */
+.me-fx-end {
+    justify-content: flex-end;
+}
+.me-fx-end-c {
+    justify-content: flex-end;
+    align-items: center;
+}
+.me-fx-end-end {
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.me-fx-1 {
+    flex: 1;
+}
+
+/* 浮动布局 */
+
+/* 浮动元素父容器 */
+.me-ft-p::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+/* 左浮动 */
+.me-lt-ft {
+    float: left;
+}
+
+/* 又浮动 */
+.me-rt-ft {
+    float: right;
+}
+
+/* 多余文本省略号截取样式 */
+.me-full-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.me-full-line2 {
+    -webkit-line-clamp: 2;
+}
+
+/* 定位 */
+.me-pos-rel {
+    position: relative;
+}
+.me-pos-abs {
+    position: absolute;
+}
+.me-pos-fixed {
+    position: fixed;
+}
+image {
+    vertical-align: middle;
+}
+.add-wechat-container {
+    padding: 0 32rpx;
+    box-sizing: border-box;
+    font-size: 24rpx;
+    margin: 20rpx 0 40rpx 0;
+}
+.content-text {
+    width: 686rpx;
+    height: 58rpx;
+    padding: 0 16rpx;
+    box-sizing: border-box;
+    border-radius: 20rpx;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.16);
+}
+.content-text > text {
+    padding-right: 15rpx;
+}
+
+/* .btn-el{margin-left:15rpx;} */
+.content-text1 {
+    background-color: #fe4f4f;
+    color: #fff;
+}
+.content-text2 {
+    background-color: #a66a42;
+    color: #fff;
+}
+.content-text3 {
+    background-color: #fd4b6d;
+    color: #fff;
+}
+.content-text4 {
+    background-color: #f9f9f9;
+    color: #000;
+}
+.content-text5 {
+    background-color: #3185ff;
+    color: #fff;
+}
+.content-text6 {
+    background-color: #ff6c7e;
+    color: #fff;
+}
+.content-text7 {
+    background-color: #ff8b4e;
+    color: #fff;
+}
+.content-text8 {
+    background-color: #2ca4f0;
+    color: #fff;
+}
+.content-text9 {
+    background-color: #fff;
+    color: #000;
+}
+

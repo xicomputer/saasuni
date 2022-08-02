@@ -1,0 +1,1 @@
+<view class="no-data-container" style="{{('height:'+height+'vh')}}"><block wx:if="{{height}}"><image class="no-data-container-img" style="{{('height:'+(height-10)+'vh')}}" mode="heightFix" src="{{url}}"></image></block><block wx:else><image class="no-data-container-img" mode="heightFix" src="{{url}}"></image></block><view class="no-data-container-text">{{text}}</view></view>

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "小店",
+  "backgroundTextStyle": "dark",
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "menu": "/pages/smallShop/myShop/components/navs-bong/navs-bong",
+    "no-data": "/pages/Component/noData/index"
+  }
+}

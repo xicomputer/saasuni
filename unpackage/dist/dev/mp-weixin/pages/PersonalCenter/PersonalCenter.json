@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "no-data": "/pages/Component/noData/index"
+  }
+}

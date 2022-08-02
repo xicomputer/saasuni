@@ -1,0 +1,196 @@
+/* flex布局 */
+
+/* flex盒子默认排列 */
+.me-fx-row {
+    display: flex;
+}
+.me-fx-col {
+    display: flex;
+    flex-direction: column;
+}
+.me-fx-start-c {
+    align-items: center;
+}
+.me-fx-start-end {
+    align-items: flex-end;
+}
+
+/* 两端对齐 */
+.me-fx-sb {
+    justify-content: space-between;
+}
+.me-fx-sb-c {
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20rpx;
+}
+.me-fx-sb-end {
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+/* 两端对齐，两侧有边距 */
+.me-fx-sa {
+    justify-content: space-around;
+}
+.me-fx-sa-c {
+    justify-content: space-around;
+    align-items: center;
+}
+.me-fx-sa-end {
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+/* 居中对齐 */
+.me-fx-c {
+    justify-content: center;
+}
+.me-fx-c-c {
+    justify-content: center;
+    align-items: center;
+}
+.me-fx-c-end {
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/* 尾部对其 */
+.me-fx-end {
+    justify-content: flex-end;
+}
+.me-fx-end-c {
+    justify-content: flex-end;
+    align-items: center;
+}
+.me-fx-end-end {
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.me-fx-1 {
+    flex: 1;
+}
+
+/* 浮动布局 */
+
+/* 浮动元素父容器 */
+.me-ft-p::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+/* 左浮动 */
+.me-lt-ft {
+    float: left;
+}
+
+/* 又浮动 */
+.me-rt-ft {
+    float: right;
+}
+
+/* 多余文本省略号截取样式 */
+.me-full-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.me-full-line2 {
+    -webkit-line-clamp: 2;
+}
+
+/* 定位 */
+.me-pos-rel {
+    position: relative;
+}
+.me-pos-abs {
+    position: absolute;
+}
+.me-pos-fixed {
+    position: fixed;
+}
+image {
+    vertical-align: middle;
+}
+.classify-item {
+    padding: 18rpx 16rpx;
+    background-color: #fff;
+    border-radius: 20rpx;
+}
+.classify-item .goods-icon {
+    width: 40rpx;
+    height: 40rpx;
+    margin-right: 12rpx;
+}
+.classify-item .class-title {
+    font-size: 32rpx;
+    color: #663610;
+    font-weight: bold;
+}
+.classify-item .even-more {
+    font-size: 24rpx;
+    color: #666;
+}
+.goods-list {
+    margin-top: 38rpx;
+    position: relative;
+    height: 240rpx;
+    width: 100%;
+}
+.goods-list .goods-item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.13);
+    background-color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    height: 228rpx;
+    width: 598rpx;
+}
+.pos1 {
+    -webkit-transform: translate(-8rpx, -8rpx);
+            transform: translate(-8rpx, -8rpx);
+}
+.pos2 {
+    -webkit-transform: translate(8rpx, 8rpx);
+            transform: translate(8rpx, 8rpx);
+}
+.goods-item .goods-img {
+    width: 244rpx;
+    height: 228rpx;
+    background-color: #ccc;
+    flex-shrink: 0;
+    vertical-align: middle;
+}
+.goods-item .goods-info {
+    padding: 12rpx 20rpx 12rpx 16rpx;
+    box-sizing: border-box;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 228rpx;
+}
+.goods-item .name {
+    font-size: 32rpx;
+}
+.goods-item .introduce {
+    font-size: 24rpx;
+    color: #666;
+}
+.goods-item .price {
+    font-size: 24rpx;
+    color: #ff0000;
+    font-weight: bold;
+}
+.goods-item .price-num {
+    font-size: 40rpx;
+}
+
